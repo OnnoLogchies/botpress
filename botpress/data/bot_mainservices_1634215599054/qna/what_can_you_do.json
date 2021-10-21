@@ -1,0 +1,60 @@
+{
+  "id": "what_can_you_do",
+  "data": {
+    "questions": {
+      "nl": [
+        "Wat kan jij?",
+        "hoe kan je me helpen?",
+        "hoe kan jij me helpen?",
+        "toon me een lijst met je functies",
+        "toon me een lijst met jouw functies?",
+        "wat kan je allemaal?",
+        "welke dingen kan jij allemaal doen?",
+        "heb je een menu met opties?"
+      ],
+      "en": [
+        "What can you do?",
+        "how can you help me?",
+        "how do I use this?",
+        "Show me a list of your features",
+        "What options can you help me with?",
+        "Tell me about your capabilities",
+        "What things can you do?",
+        "Can you give me a menu of your functionalities?",
+        "What is your purpose?",
+        "What is it you can help me with?",
+        "Can i see a list of your skills?"
+      ],
+      "fr": [
+        "Qu'est que tu peux faire?",
+        "Quels sont vos capacités?",
+        "Tu peux faire quoi pour moi",
+        "À quoi tu sers?",
+        "Je peux voir un menu de tes options?",
+        "Avec quoi pouvez-vous m'aider?",
+        "Liste de tes capacités",
+        "Quel est votre utilité?",
+        "Tous tes options svp",
+        "Que peux-tu faire pour moi?"
+      ]
+    },
+    "answers": {
+      "nl": [
+        "Ik kan je nu vooral met printer en plotter issues helpen. Er wordt druk gewerkt om mij meer te kunnen laten doen."
+      ],
+      "en": [
+        "I can help you with multiple things, just ask"
+      ],
+      "fr": [
+        "Je peux faire plusieurs trucs, il suffit de demander!"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global"
+    ]
+  }
+}
