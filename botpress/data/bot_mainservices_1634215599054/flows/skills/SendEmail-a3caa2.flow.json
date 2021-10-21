@@ -1,0 +1,28 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "next": []
+  },
+  "startNode": "entry",
+  "skillData": {
+    "fromAddress": "no_reply_chatbot@pwn.nl",
+    "toAddress": "onno.logchies@pwn.nl",
+    "subjectElement": "builtin_text-GY7h6y",
+    "contentElement": "builtin_text-7fMALu"
+  },
+  "nodes": [
+    {
+      "name": "entry",
+      "onEnter": [
+        "basic-skills/send_email {\"fromAddress\":\"no_reply_chatbot@pwn.nl\",\"toAddress\":\"onno.logchies@pwn.nl\",\"subjectElement\":\"builtin_text-GY7h6y\",\"contentElement\":\"builtin_text-7fMALu\"}"
+      ],
+      "next": [
+        {
+          "condition": "true",
+          "node": "#"
+        }
+      ],
+      "id": "169479"
+    }
+  ]
+}

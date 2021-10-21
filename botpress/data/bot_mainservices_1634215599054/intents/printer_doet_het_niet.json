@@ -1,0 +1,21 @@
+{
+  "name": "printer_doet_het_niet",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "nl": [
+      "De printer doet het niet",
+      "Ik kan niet printen",
+      "Ik zie mijn prints niet op de printer",
+      "Prints komen niet aan op de printer",
+      "Ik heb problemen met de canon printers",
+      "Als ik een print opdracht geef zie ik mijn prints niet op de printer",
+      "Ik zie mijn prints niet in de printer wachtrij",
+      "Printen werkt niet",
+      "Printen werkt weer niet",
+      "De printer doet het weer niet"
+    ]
+  },
+  "slots": []
+}

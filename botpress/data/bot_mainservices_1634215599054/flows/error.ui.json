@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "3rr0r",
+      "position": {
+        "x": 100,
+        "y": 100
+      }
+    },
+    {
+      "id": "skill-a3caa2",
+      "position": {
+        "x": 420,
+        "y": 140
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "3rr0r",
+      "sourcePort": "out0",
+      "target": "skill-a3caa2",
+      "points": [
+        {
+          "x": 300,
+          "y": 210
+        },
+        {
+          "x": 421,
+          "y": 158
+        }
+      ]
+    }
+  ]
+}
