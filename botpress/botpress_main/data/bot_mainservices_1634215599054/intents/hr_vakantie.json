@@ -1,0 +1,33 @@
+{
+  "name": "hr_vakantie",
+  "utterances": {
+    "nl": [
+      "Ik wil vakantie opnemen",
+      "Hoe kan ik vrije dagen invoeren",
+      "Ik heb een dag vrij, en nu?",
+      "Vrije dagen",
+      "vrij nemen",
+      "vrije dag",
+      "morgen niet aanwezig",
+      "volgende week afwezig",
+      "vrije dagen invoeren in timetell",
+      "vakantie in timetell invoeren"
+    ],
+    "en": [
+      "I wan't to go on holiday!",
+      "How can I register for holidays",
+      "I wan't to take some days off",
+      "How do I register my days off",
+      "days off",
+      "take the day off",
+      "I am away next week",
+      "I take the week off",
+      "Register my days off in timetell",
+      "Register my holidays in timetell"
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

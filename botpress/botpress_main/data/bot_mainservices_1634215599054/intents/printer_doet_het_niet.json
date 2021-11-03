@@ -1,0 +1,32 @@
+{
+  "name": "printer_doet_het_niet",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "nl": [
+      "De printer doet het niet",
+      "Ik kan niet printen",
+      "Ik zie mijn prints niet op de printer",
+      "Prints komen niet aan op de printer",
+      "Ik heb problemen met de canon printers",
+      "Als ik een print opdracht geef zie ik mijn prints niet op de printer",
+      "Ik zie mijn prints niet in de printer wachtrij",
+      "Printen werkt niet",
+      "Printen werkt weer niet",
+      "De printer doet het weer niet"
+    ],
+    "en": [
+      "The printers are not working",
+      "My print doesn't end up at the printer",
+      "There seems to be a problem with printing",
+      "How come my prints are not received by the printers",
+      "There is a problem with the canon printer",
+      "Printing doesn't work",
+      "And yet again printing is not working",
+      "How can I send my prints to the canon printers",
+      "There is a problem with the canon printer"
+    ]
+  },
+  "slots": []
+}

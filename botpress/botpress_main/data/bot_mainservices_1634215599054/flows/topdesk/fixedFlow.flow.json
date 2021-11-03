@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "triggers": [],
+  "description": "",
+  "nodes": [
+    {
+      "id": "1daee725a7",
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_text-uUhoOp"
+      ],
+      "onReceive": null,
+      "next": [],
+      "type": "standard"
+    }
+  ]
+}
