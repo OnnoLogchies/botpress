@@ -1,0 +1,62 @@
+{
+  "id": "who_created_you",
+  "data": {
+    "questions": {
+      "nl": [
+        "wie heeft jou gemaakt?",
+        "wie heeft jou ontwikkeld?",
+        "wie zit er achter deze bot?",
+        "Wat is de naam van degene die jou ontwikkeld heeft?",
+        "wie is jouw vader?",
+        "wie is jouw moeder?",
+        "wie zijn jouw ouders?",
+        "wie heeft jou gebouwd?",
+        "Wie heeft jou geprogrammeerd?"
+      ],
+      "en": [
+        "who created you?",
+        "who's your creator?",
+        "who is behind this bot?",
+        "what is the name of your maker?",
+        "who is your father?",
+        "who are your parents?",
+        "your creator?",
+        "Tell me about your creator",
+        "Who built you?",
+        "By who where you made?",
+        "Who programmed you?",
+        "Who coded you?"
+      ],
+      "fr": [
+        "Qui est-ce qui t'a construit",
+        "Qui est ton constructeur?",
+        "Quel personne t'a conçu?",
+        "Qui sont les fabricateurs ce bot?",
+        "Parle moi de tes concepteurs",
+        "Qui est derrière la programmation de cet assistant?",
+        "quel équipe est responsable de ton existence?",
+        "Qui t'a créé?",
+        "Parle moi de ta création",
+        "Tes créateurs, qui sont-ils?"
+      ]
+    },
+    "answers": {
+      "nl": [
+        "Ik ben ontwikkeld door die toppers uit team APPS"
+      ],
+      "en": [
+        "I was created by the great team APPS"
+      ],
+      "fr": [
+        "J'ai été construit par la merveilleuse équipe chez APPS!"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true,
+    "contexts": [
+      "global"
+    ]
+  }
+}

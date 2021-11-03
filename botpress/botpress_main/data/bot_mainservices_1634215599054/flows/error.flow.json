@@ -1,0 +1,31 @@
+{
+  "version": "0.0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "nodes": [
+    {
+      "id": "3rr0r",
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_text-7fMALu"
+      ],
+      "onReceive": null,
+      "next": [
+        {
+          "condition": "true",
+          "node": "SendEmail"
+        }
+      ]
+    },
+    {
+      "id": "skill-a3caa2",
+      "type": "skill-call",
+      "skill": "SendEmail",
+      "name": "SendEmail",
+      "flow": "skills/SendEmail-a3caa2.flow.json",
+      "next": [],
+      "onEnter": null,
+      "onReceive": null
+    }
+  ]
+}
